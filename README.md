@@ -1,1 +1,1 @@
-# SeattleSportsNewsScraper
+# Seattle Sports News Scraper
